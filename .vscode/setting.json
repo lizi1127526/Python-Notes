@@ -1,0 +1,24 @@
+{
+    "jupyter.askForKernelRestart": false,
+    "jupyter.sendSelectionToInteractiveWindow": false,
+    "jupyter.interactiveWindow.creationMode": "perFile",
+    "jupyter.widgetScriptSources": ["jsdelivr.com", "unpkg.com"],
+    "jupyter.runStartupCommands": ["%load_ext autoreload", "%autoreload 2"],
+    
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "notebook.output.textLineLimit": 30,
+    "notebook.showCellStatusBar": "visible",
+    
+    "python.terminal.activateEnvironment": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    
+    "editor.fontSize": 14,
+    "editor.fontFamily": "'Fira Code', 'Consolas', 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    
+    "files.autoGuessEncoding": true
+}
